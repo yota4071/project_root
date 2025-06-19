@@ -1,0 +1,12 @@
+# 一般的に除外すべきファイル
+witness.wtns
+*.zkey
+*.ptau
+
+# Pythonキャッシュ
+__pycache__/
+*.pyc
+
+# VSCodeなどの設定
+.vscode/
+.DS_Store
