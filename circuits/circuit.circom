@@ -51,7 +51,6 @@ template TrajectoryCheck() {
     allPass <== all7;
 
     result <== allPass;
-
 }
 
 component main = TrajectoryCheck();
